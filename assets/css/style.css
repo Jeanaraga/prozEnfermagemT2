@@ -969,6 +969,15 @@ text-align: center;
   height: auto;
 }
 
+button{
+  width: 200px;
+  height: 80px;
+  border-radius: 20px;
+background-color: #e18000;
+border: 2px solid #633197;
+  color: #633197;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
