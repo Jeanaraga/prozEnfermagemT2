@@ -887,6 +887,35 @@ section {
   }
 }
 
+#contact .container-turma {
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+
+#contact .img-turma img {
+  border: 1px solid #00000000;
+}
+
+#contact .img-turma {
+  width: 30%;
+}
+
+#contact .descricao {
+  width: 60%;
+}
+
+@media (max-width: 800px) {
+  #contact .img-turma {
+    width: 95%;
+  }#contact .descricao {
+    width: 95%;
+  }
+  #contact .img-turma img {
+    width: 100%;
+    height: auto;
+  }
+}
+
 .container1 {
   display: flex;
   flex-direction: column;
