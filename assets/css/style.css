@@ -897,11 +897,11 @@ section {
 }
 
 #contact .img-turma {
-  width: 30%;
+  width: 40%;
 }
 
 #contact .descricao {
-  width: 60%;
+  width: 50%;
 }
 
 @media (max-width: 800px) {
